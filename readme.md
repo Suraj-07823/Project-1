@@ -2,4 +2,4 @@
 
 This is a tutorial for git.
 
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Ug_Ghq8ifBJhqMJr5_bcRXqByvna3MO1iQ&s)
+![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
